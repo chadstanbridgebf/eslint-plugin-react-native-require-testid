@@ -1,7 +1,6 @@
 module.exports = {
-    plugins: ["eslint-plugin-react-native-require-testid"],
+    plugins: ['testid'],
     rules: {
-      "eslint-plugin-react-native-require-testid/require-testid": "error",
+      'testid-missing': 'error',
     },
   };
-  
