@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-native-require-testid",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
