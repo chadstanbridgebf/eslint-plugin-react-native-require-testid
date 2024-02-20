@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-react-native-require-testid",
   "version": "1.4.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,17 @@
   "keywords": [],
   "author": "",
   "description": "",
-  "devDependencies": {
-    "eslint": "^8.52.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid"
+  },
+  "bugs": {
+    "url": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid/issues"
+  },
+  "homepage": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid#readme",
+  "dependencies": {
+    "@babel/parser": "^7.22.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.43.0"
   }
 }
