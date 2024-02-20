@@ -13,9 +13,9 @@ Configure ESLint to use the plugin. Add it to the ESLint configuration:
 
 ```javascript
 {
-  "plugins": ["react-native-enforce-testid"],
+  "plugins": ["react-native-require-testid"],
   "rules": {
-    "react-native-enforce-testid/testid-missing": "error"
+    "react-native-require-testid/testid-missing": "error"
   }
 }
 ```
