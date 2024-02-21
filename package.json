@@ -1,25 +1,41 @@
 {
-  "name": "eslint-plugin-react-native-require-testid",
-  "version": "1.4.3",
-  "main": "lib/index.js",
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "description": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid"
-  },
-  "bugs": {
-    "url": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid/issues"
-  },
-  "homepage": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid#readme",
-  "dependencies": {
-    "@babel/parser": "^7.22.5",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.43.0"
-  }
+    "name": "eslint-plugin-react-native-require-testid",
+    "version": "1.4.4",
+    "main": "lib/index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ESLint",
+        "React Native",
+        "Testing",
+        "Linting",
+        "Code Quality",
+        "JSX",
+        "Configuration",
+        "Custom ESLint Rules",
+        "Plugin Development",
+        "JavaScript",
+        "Static Analysis",
+        "Code Standards",
+        "Development Best Practices",
+        "Configuration Management",
+        "Automated Testing"
+    ],
+    "author": "",
+    "description": "This ESLint plugin helps ensure that React Native components have the necessary testID attribute, which is crucial for effective testing of React Native applications.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid"
+    },
+    "bugs": {
+        "url": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid/issues"
+    },
+    "homepage": "https://github.com/chadstanbridgebf/eslint-plugin-react-native-require-testid#readme",
+    "dependencies": {
+        "@babel/parser": "^7.22.5",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^8.43.0"
+    }
 }
